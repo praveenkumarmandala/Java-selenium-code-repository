@@ -53,6 +53,11 @@ public class Standalonecode {
 	    
 	  
 	    Assert.assertTrue(confirmmsg.equalsIgnoreCase("THANKYOU FOR THE ORDER."));
+	    
+	    System.out.println("praveen kumar");
+	    System.out.println("praveen kumar");
+	    System.out.println("praveen kumar");
+	    
 	    driver.close();
 	    
 
